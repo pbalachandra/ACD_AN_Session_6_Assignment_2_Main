@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Menu Icons</string>
+    <string name="display_text">Select any\n Menu Icon</string>
+    <string name="menu_item_selected">Menu Icon ( %1$s ) selected</string>
+</resources>
